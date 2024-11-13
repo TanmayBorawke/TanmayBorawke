@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanmayBorawke
 - 👀 I’m interested in Coding-Frontend Developer
-- 🌱 I’m currently learning BCA (SCI)
-- ⚡ Fun fact: I also don't know Coding but Learning📈 
+- 🌱 I’m currently learning BCA (Sci)
+- ⚡ Fun fact: Coding is a steep learning curve 📈
 
 <!---
 TanmayBorawke/TanmayBorawke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
